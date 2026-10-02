@@ -4,7 +4,7 @@ I'm an Information Management student based in Lisbon, interested in the interse
 
 My background includes process improvement, system implementation, reporting, and cross-functional project coordination. I'm currently developing my technical skills through hands-on projects in Python, SQL, data analysis, and automation.
 
-## Currently learning
+## Current focus
 
 - Python
 - SQL
@@ -22,21 +22,31 @@ My background includes process improvement, system implementation, reporting, an
 - Business Process Improvement
 - AI-assisted workflows
 
-## Tech
+## Technical Skills
 
-**Languages & Data**
-`Python` `SQL` `Pandas`
+**Data & Analysis**
+- SQL
+- Python
+- Microsoft Excel
+- Power BI (Learning)
 
-**Tools**
-`Git` `GitHub` `Jira` `Odoo` `Excel` `Google Workspace`
+**Business Systems**
+- Odoo ERP
+- Jira
 
-**Currently exploring**
-`Power BI` `APIs` `Low-Code` `Automation`
+**Productivity & Collaboration**
+- Microsoft 365 (Excel, Word, PowerPoint, Outlook)
+- Google Workspace (Docs, Sheets, Slides, Drive)
+- Git & GitHub
 
 ## Projects
 
-I'm currently building practical projects around data analysis, automation, and business processes. More coming soon.
-
+- Business Analysis Case Study
+- Sales Performance Dashboard
+- SQL Business Analysis
+- Inventory Analytics
+- More projects coming soon
+  
 ## Languages
 
 🇺🇦 Ukrainian — Native  
